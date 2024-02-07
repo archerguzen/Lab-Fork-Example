@@ -15,5 +15,5 @@
   $          .'       .-.                `*-.  $
   $        .'      ._/   \                   `*$
   $      .'      .'_/     \_.                  $
-  $. ENERGY 100 /.'/       \ `.      AMMO 320 .$
+  $. ENERGY 100 /.'/       \ `.      AMMO 400 .$
   `TssssssssssssssssssssssssssssssssssssssssssP'

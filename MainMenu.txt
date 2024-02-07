@@ -1,3 +1,4 @@
 Start
-O-pigeons
+Options
+Credits
 Exit
